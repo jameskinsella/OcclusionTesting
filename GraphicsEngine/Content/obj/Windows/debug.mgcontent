@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/debug.spritefont</SourceFile>
+  <SourceTime>2015-01-20T00:24:04+00:00</SourceTime>
+  <DestFile>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/bin/Windows/debug.xnb</DestFile>
+  <DestTime>2016-02-15T15:11:31.4475987+00:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2015-04-29T18:14:44+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2015-04-29T18:14:44+01:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

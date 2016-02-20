@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/Models/ball.fbx</File>
+    <File>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/Models/wall.fbx</File>
+    <File>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/Textures/blue.png</File>
+    <File>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/Textures/purple.png</File>
+    <File>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/debug.spritefont</File>
+    <File>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/Models/cube.fbx</File>
+    <File>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/Textures/cubecover.png</File>
+    <File>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/Effects/BasicColorEffect.fx</File>
+    <File>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/Effects/BasicTextureEffect.fx</File>
+    <File>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/Textures/sand.png</File>
+    <File>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/Models/house.fbx</File>
+    <File>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/Textures/white.png</File>
+    <File>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/Effects/DirectionalLight.fx</File>
+    <File>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/Models/medb.fbx</File>
+    <File>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/Textures/medbtx.png</File>
+    <File>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/Effects/PointLight.fx</File>
+    <File>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/Models/stonewall.fbx</File>
+    <File>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/Textures/stonewall.png</File>
+  </SourceFiles>
+</SourceFileCollection>

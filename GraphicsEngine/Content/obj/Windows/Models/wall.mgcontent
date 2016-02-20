@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/Models/wall.fbx</SourceFile>
+  <SourceTime>2015-01-29T16:03:50+00:00</SourceTime>
+  <DestFile>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/bin/Windows/Models/wall.xnb</DestFile>
+  <DestTime>2016-02-15T15:11:29.0919685+00:00</DestTime>
+  <Importer>FbxImporter</Importer>
+  <ImporterTime>2015-04-29T18:14:44+01:00</ImporterTime>
+  <Processor>ModelProcessor</Processor>
+  <ProcessorTime>2015-04-29T18:14:44+01:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>0,0,0,0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>DefaultEffect</Key>
+    <Value>BasicEffect</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateTangentFrames</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyTextureAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyVertexColors</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeTexturesToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>RotationX</Key>
+    <Value>0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>RotationY</Key>
+    <Value>0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>RotationZ</Key>
+    <Value>0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>Scale</Key>
+    <Value>1</Value>
+  </Parameters>
+  <Parameters>
+    <Key>SwapWindingOrder</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>DxtCompressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset>
+    <string>C:/Users/s00144602/Documents/Visual Studio 2015/Projects/GraphicsEngine/GraphicsEngine/Content/bin/Windows/Textures/blue_0.xnb</string>
+  </BuildAsset>
+  <BuildOutput />
+</PipelineBuildEvent>
